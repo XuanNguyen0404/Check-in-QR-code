@@ -1,0 +1,9 @@
+D:\Chuyen_Nganh\PRN292\DatabaseAss\DatabaseAss\bin\Release\netcoreapp3.1\DatabaseAss.deps.json
+D:\Chuyen_Nganh\PRN292\DatabaseAss\DatabaseAss\bin\Release\netcoreapp3.1\DatabaseAss.dll
+D:\Chuyen_Nganh\PRN292\DatabaseAss\DatabaseAss\bin\Release\netcoreapp3.1\DatabaseAss.pdb
+D:\Chuyen_Nganh\PRN292\DatabaseAss\DatabaseAss\obj\Release\netcoreapp3.1\DatabaseAss.csprojAssemblyReference.cache
+D:\Chuyen_Nganh\PRN292\DatabaseAss\DatabaseAss\obj\Release\netcoreapp3.1\DatabaseAss.AssemblyInfoInputs.cache
+D:\Chuyen_Nganh\PRN292\DatabaseAss\DatabaseAss\obj\Release\netcoreapp3.1\DatabaseAss.AssemblyInfo.cs
+D:\Chuyen_Nganh\PRN292\DatabaseAss\DatabaseAss\obj\Release\netcoreapp3.1\DatabaseAss.csproj.CoreCompileInputs.cache
+D:\Chuyen_Nganh\PRN292\DatabaseAss\DatabaseAss\obj\Release\netcoreapp3.1\DatabaseAss.dll
+D:\Chuyen_Nganh\PRN292\DatabaseAss\DatabaseAss\obj\Release\netcoreapp3.1\DatabaseAss.pdb
